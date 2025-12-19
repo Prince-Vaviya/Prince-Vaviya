@@ -7,8 +7,8 @@
 <br><br>
 <p>
 <p align="center">
-<img src="star.gif" width="35"  align="left"/>
-<img src="star.gif" width="35"  align="right"/>
+<img src="star.gif" width="51"  align="left"/>
+<img src="star.gif" width="51"  align="right"/>
 </p>
 
 <p align="center">
