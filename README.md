@@ -10,7 +10,7 @@
 <img src="star.gif" width="35"  align="right"/>
 </p>
 
-<p align="center">
+<p align="center" style="background-color: #ffffff">
 <a href="http://discord.com/users/mr.eagle01" target="blank"><img align="center" src="discord.svg" alt="mr.eagle01" height="40" width="30" /></a>&nbsp;
 <a href="https://leetcode.com/u/Mr-Eagle/" target="blank"><img align="center" src="leetcode.svg" alt="Mr-Eagle" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/prince-vaviya-60b376311/" target="blank"><img align="center" src="linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
