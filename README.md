@@ -19,7 +19,7 @@
 </p>
 <br><br>
 
-# &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="40" width="50" > &nbsp;About Me :
+&nbsp;About Me :
 
 ~ I'm Prince Vaviya &nbsp;&nbsp;[ @Mr. Eagle ] from India 🧭
 
