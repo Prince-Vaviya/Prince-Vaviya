@@ -1,6 +1,5 @@
 <p align="center" style="padding-top: 20px;">
 <img width="435" height="50" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=750&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=print(%20Hi!%20)%20%F0%9F%91%8B;01001000%2001101001%20%F0%9F%91%8B;printf(Hola!)%20%F0%9F%91%8B;System.out.println(%20%E0%AA%95%E0%AB%87%E0%AA%AE%20%E0%AA%9B%E0%AB%8B!%20)%20%F0%9F%91%8B;Console.log(%20%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!%20)%20%F0%9F%91%8B;echo%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20%F0%9F%91%8B;&height=50" alt="Typing SVG" />
-
 </p>
 
 <h1></h1>
@@ -14,7 +13,7 @@
 <p align="center">
 <a href="http://discord.com/users/mr.eagle01" target="blank"><img align="center" src="discord.svg" alt="mr.eagle01" height="50" width="50" /></a>&nbsp;
 <a href="https://leetcode.com/u/Mr-Eagle/" target="blank"><img align="center" src="leetcode.svg" alt="Mr-Eagle" height="50" width="50" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/prince-vaviya-60b376311/" target="blank"><img align="center" src="linkedin.svg" alt="apoorvtyagi" height="50" width="50" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/prince-vaviya-60b376311/" target="blank"><img align="center" src="linkedin.svg" alt="linkedin" height="50" width="50" /></a>&nbsp;
 </p>
 </p>
 <br><br>
