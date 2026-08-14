@@ -12,7 +12,7 @@
 ---
 
 #### 🙂 &nbsp;about Me
-- polymath at heart, with a soft spot for solarpunk and a knack for being ambidextrous.**
+- polymath at heart, with a soft spot for solarpunk and a knack for being ambidextrous.
 - currently building backend & AI-focused applications
 - diving into os, distributed systems, & system architecture
 - side quest : game Development using godot & unity
