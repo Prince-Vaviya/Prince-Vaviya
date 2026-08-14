@@ -23,7 +23,7 @@
 #### 🛠️ &nbsp;Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=webflow,figma,html,css,tailwind,js,ts,react,vite,postman,nodejs,express,androidstudio,blender,bootstrap,codepen,docker,dart,flutter,godot,jenkins,grafana,kubernetes,p5js,pytorch,fastapi,python,cpp,mysql,mongodb,redis,aws,vercel,github,git,vscode,bash,arduino,linux,&perline=13" style="width:90%;"/>
+  <img src="https://skillicons.dev/icons?i=webflow,figma,html,css,tailwind,js,ts,react,vite,postman,nodejs,express,androidstudio,blender,bootstrap,codepen,docker,dart,flutter,godot,jenkins,grafana,kubernetes,p5js,pytorch,fastapi,python,cpp,mysql,mongodb,redis,aws,vercel,github,git,vscode,bash,arduino,linux,&perline=13" style="width:100%;"/>
 </p>
 <br><br>
 
