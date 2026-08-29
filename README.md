@@ -13,19 +13,57 @@
 
 #### 🙂 &nbsp;about Me
 - polymath at heart, with a soft spot for solarpunk and a knack for being ambidextrous.
-- currently building backend & AI-focused applications
 - diving into os, distributed systems, & system architecture
 - side quest : game Development using godot & unity
 - off the Screen : sketching, music, and human psychology - catches my curiosity
 
 ---
-
 #### 🛠️ &nbsp;Tech Stack
 
+**Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=webflow,figma,html,css,tailwind,js,ts,react,vite,postman,nodejs,express,androidstudio,blender,bootstrap,codepen,docker,dart,flutter,godot,jenkins,grafana,kubernetes,p5js,pytorch,fastapi,python,cpp,mysql,mongodb,redis,aws,vercel,github,git,vscode,bash,arduino,linux,&perline=13" style="width:90%;"/>
+  <img src="https://skillicons.dev/icons?i=cpp,dart,go,java,js,ts&perline=11" />
 </p>
-<br><br>
+
+**AI / Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=11" />
+</p>
+
+**Backend Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&perline=11" />
+</p>
+
+**Frontend Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=materialui,nextjs,react,threejs,p5js,tailwind,bootstrap,figma,webflow&perline=11" />
+</p>
+
+**Game Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=blender,godot,unity&perline=11" />
+</p>
+
+**AI / ML**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,p5js&perline=11" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase,prisma&perline=11" />
+</p>
+
+**DevOps & Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,grafana,prometheus,nginx,npm,kafka,rabbitMQ,aws,azure,gcp,vercel,netlify,heroku,cloudflare&perline=11" />
+</p>
+
+**Developer Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion&perline=11" />
+</p>
 
 ---
 
