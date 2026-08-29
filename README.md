@@ -22,7 +22,7 @@
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,dart,go,java,js,ts&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,go,java,js,ts&perline=11" />
 </p>
 
 **AI / Machine Learning**
