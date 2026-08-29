@@ -45,11 +45,6 @@
   <img src="https://skillicons.dev/icons?i=blender,godot,unity&perline=11" />
 </p>
 
-**AI / ML**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,p5js&perline=11" />
-</p>
-
 **Databases**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,supabase,prisma&perline=11" />
