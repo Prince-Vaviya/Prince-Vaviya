@@ -6,7 +6,7 @@
 
 <br>
 <p>
-<i>A Computer Science student with a habit of asking question:&nbsp;&nbsp;"Okay, but what's actually happening at the base level?"</i>
+<i></i>
 </p>
 
 ---
