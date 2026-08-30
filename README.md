@@ -13,7 +13,6 @@
 
 #### 🙂 &nbsp;about Me
 - polymath at heart, with a soft spot for solarpunk and a knack for being ambidextrous.
-- diving into os, distributed systems, & system architecture
 - side quest : game Development using godot & unity
 - off the Screen : sketching, music, and human psychology - catches my curiosity
 
