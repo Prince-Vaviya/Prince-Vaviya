@@ -14,7 +14,7 @@
 #### 🙂 &nbsp;about Me
 - polymath at heart, with a soft spot for solarpunk and a knack for being ambidextrous.
 - side quest : game Development using godot & unity
-- off the Screen : sketching, music, and human psychology - catches my curiosity
+- off the Screen : sketching, music, and psychology - catches my curiosity
 
 ---
 #### 🛠️ &nbsp;Tech Stack
