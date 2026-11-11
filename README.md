@@ -1,7 +1,7 @@
 
 <h1>Prince Vaviya</h1>
 <p>
-  <b>Full-Stack Engineer &nbsp;·&nbsp; Backend Systems &nbsp;·&nbsp; AI/ML Builder</b>
+  <b>Software Engineer &nbsp;·&nbsp; AI/ML Engineer &nbsp;·&nbsp; Game Developer</b>
 </p>
 
 <br>
